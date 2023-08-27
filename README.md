@@ -14,4 +14,4 @@ licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Inter
 (by-nc-sa 4.0)
 
 ========
-No longer maintained, the project is closed
+No longer maintained, the project is closed (texture pack can be found in the Unity.zip)
