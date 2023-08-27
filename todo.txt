@@ -1,0 +1,10 @@
+1.19 and 1.19.3 textures
+mc_mobs
+other minor textures
+---TODO---
+Ocean
+Copper
+deepslate with copper
+railway
+obsidian boat
+mangrove root
