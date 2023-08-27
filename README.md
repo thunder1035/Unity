@@ -1,5 +1,9 @@
 # Unity
 An texture pack for MineClone 2 and 5.
+=====================================
+
+Mineclone 2 (https://content.minetest.net/packages/Wuzzy/mineclone2/)
+======================
 
 Version
 ===========
