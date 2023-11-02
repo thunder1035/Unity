@@ -8,6 +8,8 @@ Mineclone 2 (https://content.minetest.net/packages/Wuzzy/mineclone2/)
 Version
 ===========
 (Alpha)0.1
+compatible for mineclone 2 version(0.84.0)
+
 
 Special thanks to 
 ===========
